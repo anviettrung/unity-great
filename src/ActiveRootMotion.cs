@@ -1,5 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
+/*
+ * How to use: https://www.patreon.com/posts/how-to-smoothly-53074538
+*/
 using UnityEngine;
 
 public class ActiveRootMotion : StateMachineBehaviour
